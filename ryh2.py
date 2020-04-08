@@ -121,7 +121,7 @@ saved_clf = pickle.load(open(filename, 'rb'))
 saved_clf.score(xtest, ytest)
 
 
-
+#https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
 
 
 
